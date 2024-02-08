@@ -1,0 +1,16 @@
+{
+  "name": "synthetic-monitoring",
+  "version": "1.0.0",
+  "description": "Script for synthetic monitoring with Google Cloud Functions and Puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "googleapis": "^125.0.0",
+    "google-auth-library": "^7.4.0",
+    "puppeteer": "^13.1.1"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
